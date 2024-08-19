@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KarenKabeu
-- 👀 I’m interested in learning languages
-- 🌱 I’m currently learning software engineering with ALX
+- 👀 I’m interested in learning programming languages
+- 🌱 I’m currently learning many new skills
 - 💞️ I’m looking to collaborate on programming projects
 - 📫 How to reach me through my email waithira.kk@gmail.com
 
